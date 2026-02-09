@@ -1,0 +1,69 @@
+2026-02-03 17:43:50,006 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 17:43:54,726 | INFO | Entering username
+2026-02-03 17:43:55,693 | INFO | Entering password
+2026-02-03 17:43:55,724 | INFO | Clicking Login button
+2026-02-03 17:43:57,938 | INFO | Navigating to Recruitment module
+2026-02-03 17:44:00,501 | INFO | Clicking Add Candidate
+2026-02-03 17:44:03,250 | INFO | Filling candidate details
+2026-02-03 18:01:04,112 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 18:01:09,429 | INFO | Entering username
+2026-02-03 18:01:10,349 | INFO | Entering password
+2026-02-03 18:01:10,391 | INFO | Clicking Login button
+2026-02-03 18:01:12,803 | INFO | Navigating to Recruitment module
+2026-02-03 18:01:15,802 | INFO | Clicking Add Candidate
+2026-02-03 18:01:18,259 | INFO | Filling candidate details
+2026-02-03 18:06:07,217 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 18:06:12,204 | INFO | Entering username
+2026-02-03 18:06:13,124 | INFO | Entering password
+2026-02-03 18:06:13,151 | INFO | Clicking Login button
+2026-02-03 18:06:15,001 | INFO | Navigating to Recruitment module
+2026-02-03 18:06:17,590 | INFO | Clicking Add Candidate
+2026-02-03 18:06:20,401 | INFO | Filling candidate details
+2026-02-03 18:06:21,894 | INFO | Opening vacancy dropdown
+2026-02-03 18:08:17,352 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 18:08:22,587 | INFO | Entering username
+2026-02-03 18:08:23,505 | INFO | Entering password
+2026-02-03 18:08:23,526 | INFO | Clicking Login button
+2026-02-03 18:08:26,243 | INFO | Navigating to Recruitment module
+2026-02-03 18:08:29,834 | INFO | Clicking Add Candidate
+2026-02-03 18:08:32,570 | INFO | Filling candidate details
+2026-02-03 18:08:33,523 | INFO | Opening vacancy dropdown
+2026-02-03 18:08:35,628 | INFO | Saving candidate
+2026-02-03 18:21:38,011 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 18:21:43,021 | INFO | Entering username
+2026-02-03 18:21:45,116 | INFO | Entering password
+2026-02-03 18:21:45,156 | INFO | Clicking Login button
+2026-02-03 18:21:54,241 | INFO | Navigating to Recruitment module
+2026-02-03 18:22:04,263 | INFO | Clicking Add Candidate
+2026-02-03 18:22:12,040 | INFO | Filling candidate details
+2026-02-03 18:22:14,020 | INFO | Opening vacancy dropdown
+2026-02-03 18:23:06,135 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-03 18:23:14,697 | INFO | Entering username
+2026-02-03 18:23:19,231 | INFO | Entering password
+2026-02-03 18:23:19,263 | INFO | Clicking Login button
+2026-02-03 18:23:25,949 | INFO | Navigating to Recruitment module
+2026-02-03 18:23:33,908 | INFO | Clicking Add Candidate
+2026-02-03 18:23:38,800 | INFO | Filling candidate details
+2026-02-03 18:23:40,329 | INFO | Opening vacancy dropdown
+2026-02-03 18:23:41,456 | INFO | Saving candidate
+2026-02-03 18:23:41,506 | INFO | Clicking Shortlist button
+2026-02-03 18:23:49,856 | INFO | Test completed successfully
+2026-02-05 14:14:51,965 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-05 14:14:56,872 | INFO | Entering username
+2026-02-05 14:14:58,307 | INFO | Entering password
+2026-02-05 14:14:58,335 | INFO | Clicking Login button
+2026-02-05 14:15:03,528 | INFO | Navigating to Recruitment module
+2026-02-05 14:15:13,222 | INFO | Clicking Add Candidate
+2026-02-05 14:15:19,927 | INFO | Filling candidate details
+2026-02-05 14:15:22,440 | INFO | Opening vacancy dropdown
+2026-02-05 14:21:56,748 | INFO | Starting test: Add and Shortlist Candidate
+2026-02-05 14:22:01,339 | INFO | Entering username
+2026-02-05 14:22:04,445 | INFO | Entering password
+2026-02-05 14:22:04,477 | INFO | Clicking Login button
+2026-02-05 14:22:07,365 | INFO | Navigating to Recruitment module
+2026-02-05 14:22:10,648 | INFO | Clicking Add Candidate
+2026-02-05 14:22:14,969 | INFO | Filling candidate details
+2026-02-05 14:22:16,409 | INFO | Opening vacancy dropdown
+2026-02-05 14:22:18,455 | INFO | Saving candidate
+2026-02-05 14:22:18,506 | INFO | Clicking Shortlist button
+2026-02-05 14:22:27,186 | INFO | Test completed successfully
